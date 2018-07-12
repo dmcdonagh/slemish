@@ -13,5 +13,7 @@ Images of Slemish Road house.
 
 ![Backgarden 2](https://raw.githubusercontent.com/dmcdonagh/slemish/master/img/backgarden_2.jpg "Backgarden 2")
 
+![Backgarden 3](https://raw.githubusercontent.com/dmcdonagh/slemish/master/img/back_view.jpg "Backgarden 3")
+
 ![Plan](https://raw.githubusercontent.com/dmcdonagh/slemish/master/img/plan.jpg "Plan")
 
